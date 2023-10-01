@@ -1,11 +1,3 @@
-**Log on to codeastro.com for more projects!***
-
-**Database Name: attendancemsystem**
-
-**Developed by Sodiq Ahmed**
-
-**Recommended PHP Version 5.6 and Newer**
-
 
 **Admin Login Details**
 
